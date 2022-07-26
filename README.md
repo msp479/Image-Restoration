@@ -1,6 +1,6 @@
 # Image-Restoration
 
-## A deep-learning-project - cse676.
+### A deep-learning-project - cse676.
 
 # Dataset links
 ## 1. GoPro
